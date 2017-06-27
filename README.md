@@ -1,7 +1,7 @@
 ## Sorting
 
-* three incremental approaches: insertion, bubble, selection sort
-* divide-and-conquer approaches: merge, quick sort
+* **three incremental approaches**: insertion, bubble, selection sort
+* **divide-and-conquer approaches**: merge, quick sort
 
 ## Command Line Arguments
 
