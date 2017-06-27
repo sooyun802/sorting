@@ -14,14 +14,14 @@
 
 ## Execution
 ```
-./Bubble.out 100
-./Selection.out 100
-./Insertion.out 100
-./Quick.out 100
+$ ./Bubble.out 100
+$ ./Selection.out 100
+$ ./Insertion.out 100
+$ ./Quick.out 100
 
 // to disable printing of data, add -s option
-./Bubble.out 3000 -s
-./Selection.out 3000 -s
-./Insertion.out 3000 -s
-./Quick.out 3000 -s
+$ ./Bubble.out 3000 -s
+$ ./Selection.out 3000 -s
+$ ./Insertion.out 3000 -s
+$ ./Quick.out 3000 -s
 ```
